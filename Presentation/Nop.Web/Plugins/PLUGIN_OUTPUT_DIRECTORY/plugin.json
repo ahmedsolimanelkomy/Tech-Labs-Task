@@ -1,0 +1,11 @@
+﻿{
+  "Group": "MyPlugin",
+  "FriendlyName": "MyPlugin",
+  "SystemName": "MyPlugin.CustomerApi",
+  "Version": "4.70.7",
+  "SupportedVersions": [ "4.70" ],
+  "Author": "Ahmed Mohamed Ahmed Soliman",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.MyPlugin.CustomerApi.dll",
+  "Description": "This plugin Is a Customer API Integration Plugin for NopCommerce (v4.50) provides a REST API to manage customer data and integrates with Microsoft Dynamics CRM."
+}
